@@ -1,0 +1,7 @@
+{
+  "name": "ts-sandbox",
+  "private": true,
+  "workspaces": [
+    "sql"
+  ]
+}
