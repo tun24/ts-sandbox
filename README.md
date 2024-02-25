@@ -1,2 +1,2 @@
 # ts-sandbox
-TypeScript sandbox
+TypeScriptの雑多なプログラム。
